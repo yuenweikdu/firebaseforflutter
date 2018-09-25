@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1085833966153",
+    "firebase_url": "https://baby-names-db-6583b.firebaseio.com",
+    "project_id": "baby-names-db-6583b",
+    "storage_bucket": "baby-names-db-6583b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085833966153:android:0d7a494fad3d197f",
+        "android_client_info": {
+          "package_name": "com.yuenwei.babynames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085833966153-6sg60l5ukjj6evaj1ghfk4ig560ttvee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg6jHUWJrRSGD-uWc5kUYT4S4fsxBAtqw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085833966153:android:d212cc8102df7278",
+        "android_client_info": {
+          "package_name": "com.yuenwei.babynamesexamples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085833966153-6sg60l5ukjj6evaj1ghfk4ig560ttvee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg6jHUWJrRSGD-uWc5kUYT4S4fsxBAtqw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
